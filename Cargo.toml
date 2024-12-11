@@ -1,0 +1,10 @@
+[package]
+name = "buffcat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.23", features = ["derive"] }
+multiqueue = "0.3.2"
+num_cpus = "1.16.0"
+tqdm = "0.7.0"
