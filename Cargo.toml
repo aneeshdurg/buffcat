@@ -7,4 +7,5 @@ edition = "2021"
 clap = { version = "4.5.23", features = ["derive"] }
 multiqueue = "0.3.2"
 num_cpus = "1.16.0"
+page_size = "0.6.0"
 tqdm = "0.7.0"
